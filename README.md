@@ -29,7 +29,7 @@ src/
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/blogsphere.git
+git clone https://github.com/Coder-Krrish/BlogSphere.git
 cd blogsphere/project
 
 ### 2. Install dependencies
